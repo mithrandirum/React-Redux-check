@@ -1,0 +1,16 @@
+.line {
+    text-decoration: line-through;
+  
+  }
+
+  .App {
+      margin-left: 70vh;
+      margin-top: 10vh;
+  }
+
+  .morad {
+      display: flex;
+    
+      align-items: center;
+
+  }
